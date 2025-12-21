@@ -5,6 +5,6 @@
 + Files and directories use clear, descriptive names to make topics easy to find.
 + This does not cover everything about Linux. I update the repository as I continue learning.
 
-**Note**: Information on everything CLI (commands, shells, emulators, etc) are covered in a separate repository called [Linux-CLI](https://github.com/raymondmwaura-osdev/Linux-CLI.git).
-
 Feel free to open an issue if you find incorrect or outdated information, or if you want to suggest new topics.
+
+---
