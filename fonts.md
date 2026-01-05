@@ -10,6 +10,34 @@ If a requested font or glyph coverage is missing, Fontconfig substitutes with a 
 
 ---
 
+## Difference Between Serif, Sans-Serif, and Monospace
+
+### Serif
+
+Fonts with small decorative strokes (called "serifs") at the ends of letters. These little feet or flourishes give them a more traditional, formal look.
+
+**Examples:** Times New Roman, Georgia, Liberation Serif
+
+**Used for:** Print books, newspapers, formal documents. The serifs were thought to guide the eye along lines of text in print.
+
+### Sans-serif
+
+Fonts **without** serifs (sans = French for "without"). They have clean, straight letter edges with no decorative strokes.
+
+**Examples:** Arial, Helvetica, Liberation Sans, Roboto
+
+**Used for:** Modern interfaces, websites, signage. They're considered more readable on screens and have a clean, contemporary look.
+
+### Monospace
+
+Fonts where **every character takes up the same width**. An "i" is as wide as an "m". This is different from proportional fonts where letters have different widths.
+
+**Examples:** Courier New, JetBrainsMono, Consolas, Liberation Mono
+
+**Used for:** Code editors, terminals, ASCII art. The fixed width makes code align properly and makes it easier to spot patterns in text.
+
+---
+
 ## The Linux Font Architecture
 
 ### Overview of the Stack
