@@ -1,6 +1,4 @@
-# Introduction to Shells
-
-## What a Shell Is
+# Shell
 
 A shell is a program that mediates between the user (or an automated input) and the operating system kernel. Its primary job is to translate actions (whether typed commands or mouse clicks) into system calls that launch and control other programs. It accepts input, interprets their meaning, and translates them into lower-level requests that the kernel can execute.
 
@@ -10,6 +8,8 @@ A shell can be:
 Both do the same thing under the hood.
 
 **NOTE:** The main purpose of a shell is to launch and control other programs on your behalf, while managing the environment they run in.
+
+**Terminal Emulator:** A terminal emulator (like Alacritty) provides the graphical window and handles keyboard input, while a shell (like Bash) processes commands. You cannot use Bash directly because it has no ability to draw a window, render text, or connect to your GUI. The terminal emulator acts as the necessary bridge between the shell and your graphical desktop.
 
 ---
 
